@@ -7,7 +7,7 @@ O design conta com um fundo em vídeo e interface totalmente responsiva, adaptan
 
 ## 🖼️ Demonstração
 
-![Demonstração do projeto](./assets/Mockup - Pagina de sorteio.png)
+<img src="assets/Mockup - Pagina de sorteio.png" alt="Muckup mobile e desktop" width="800">
 
 ---
 
